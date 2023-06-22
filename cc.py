@@ -542,7 +542,7 @@ def DownloadProxies(proxy_ver):
 			"https://api.openproxylist.xyz/socks5.txt",
 			"https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5",
 			"https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks5",
-			"https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks5", "timeout": 5},
+			"https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks5", 
 			"https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all&simplified=true",
 			"https://proxyspace.pro/socks5.txt",
 			"https://raw.githubusercontent.com/manuGMG/proxy-365/main/SOCKS5.txt",
